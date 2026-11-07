@@ -340,7 +340,7 @@ VALUES
 ## View Data
 
 ```sql
-SELECT * FROM Students;
+SELECT * FROM students;
 ```
 
 The `*` means **all columns**.
